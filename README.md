@@ -1,11 +1,6 @@
 # loginapp
 
 A new Flutter project.
-## Screenshots
-![Screenshot_1645983582](https://user-images.githubusercontent.com/77886136/155893479-e3d3e375-d8b4-4c91-b5db-a71df24067ca.png)
-![Screenshot_1645983590](https://user-images.githubusercontent.com/77886136/155893484-a7218fd1-0e49-4248-97a2-f4430b2a5e9e.png)
-![Screenshot_1645983599](https://user-images.githubusercontent.com/77886136/155893485-3fa6208c-de44-403e-bd63-6db41dba36e8.png)
-
 
 ## Getting Started
 
