@@ -7,7 +7,7 @@ class ErrorPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Image.asset("name"),
+        child: Image.asset("img/error.png"),
       ),
     );
   }
